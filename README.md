@@ -1,0 +1,2 @@
+# FuckFuckGo
+Private Browser
